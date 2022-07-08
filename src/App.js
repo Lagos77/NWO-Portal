@@ -1,11 +1,11 @@
 
 function App() {
 
-  
+
   return (
     <div className="App">
       <header className="App-header">
-        <p>Welcome</p>  
+        <p>Angelo det är 50% rabatt på autodoc</p>  
       </header>
     </div>
   );
