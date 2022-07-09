@@ -1,0 +1,15 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Title{
+}
+
+h2 {
+    font-size: 3.7rem;
+    font-style: bold;
+}
+
