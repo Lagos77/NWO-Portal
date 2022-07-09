@@ -1,0 +1,11 @@
+.info-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-cont{
+    max-height: 10rem;
+    max-width: 10rem;
+}
