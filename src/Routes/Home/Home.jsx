@@ -14,7 +14,7 @@ const Home = () => {
                     <h4>To the database of the new world order</h4>
                 </div>
                 <div className="image-container">
-                   <img src={img1} alt="" />
+                   <img src={img1} alt="" className="home-img"/>
                 </div>
         
         </div>

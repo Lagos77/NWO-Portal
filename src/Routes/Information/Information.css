@@ -5,17 +5,19 @@
 }
 
 .info-body {
-    min-height: 100vh;
+   
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    background-color: #EFEFEF;
+    
 }
 
 .card {
     width: 320px;
     border-radius: 25px;
-    background-color: #FFF;
+    background-color: #EFEFEF;
+    margin: 10px;
 }
 
 .image-content,
