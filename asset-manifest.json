@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/NWO-Portal/static/css/main.9b7600c0.css",
-    "main.js": "/NWO-Portal/static/js/main.8cd9bb6c.js",
+    "main.css": "/NWO-Portal/static/css/main.6a831713.css",
+    "main.js": "/NWO-Portal/static/js/main.5f531470.js",
     "static/js/787.45b7d053.chunk.js": "/NWO-Portal/static/js/787.45b7d053.chunk.js",
+    "static/media/ghis.jpeg": "/NWO-Portal/static/media/ghis.7fbfd397056978d5772d.jpeg",
+    "static/media/soros.jpg": "/NWO-Portal/static/media/soros.9de088615ea467da7530.jpg",
     "static/media/marina.jpeg": "/NWO-Portal/static/media/marina.f0824355774f59d19fbf.jpeg",
+    "static/media/macron.jpeg": "/NWO-Portal/static/media/macron.bb29c525f82b3459487c.jpeg",
+    "static/media/albert.jpeg": "/NWO-Portal/static/media/albert.19b8be3d2770cdfd1fa7.jpeg",
     "static/media/eye.jpeg": "/NWO-Portal/static/media/eye.d6202d1682da41481c16.jpeg",
     "index.html": "/NWO-Portal/index.html",
-    "main.9b7600c0.css.map": "/NWO-Portal/static/css/main.9b7600c0.css.map",
-    "main.8cd9bb6c.js.map": "/NWO-Portal/static/js/main.8cd9bb6c.js.map",
+    "main.6a831713.css.map": "/NWO-Portal/static/css/main.6a831713.css.map",
+    "main.5f531470.js.map": "/NWO-Portal/static/js/main.5f531470.js.map",
     "787.45b7d053.chunk.js.map": "/NWO-Portal/static/js/787.45b7d053.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b7600c0.css",
-    "static/js/main.8cd9bb6c.js"
+    "static/css/main.6a831713.css",
+    "static/js/main.5f531470.js"
   ]
 }
