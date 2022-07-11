@@ -13,13 +13,13 @@ h2 {
 
 .image-container{
     position: relative;
-    height: 180px;
-    width: 180px;
+    height: 150px;
+    width: 150px;
 }
 
 .image-container, .home-img{
-    height: 100%;
-    width: 100%;
+    height: fit-content;
+    width: fit-content;
     object-fit: cover;
 
 }

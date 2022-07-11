@@ -8,6 +8,7 @@ export default function Navbar() {
             <h1>NWO Portal</h1>
         </Link>
         <ul>
+            <CustomLink to="/admin">Admin</CustomLink>
             <CustomLink to="/information">Information</CustomLink>
             <CustomLink to="/about">About</CustomLink>
         </ul>
